@@ -1,6 +1,7 @@
 # Share_Modal
-Stylish and functional share modal created with JavaScript!
+Live Link -https://share-modal-project.netlify.app
 
+Stylish and functional share modal created with JavaScript!
 The share modal's elements and features are broken down as follows:
 1) The share modal appears when a button on the website is clicked.
 2) The modal contains sections with buttons for social media sharing and a close button.
